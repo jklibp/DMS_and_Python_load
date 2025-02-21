@@ -1,0 +1,3004 @@
+{
+    "rules": [
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        },
+        {
+            "rule-type": "selection",
+            "rule-id": "1",
+            "rule-name": "rule-name-table",
+            "object-locator": {
+                "schema-name": "dbo",
+                "table-name": "table_name"
+            },
+            "rule-action": "include"
+        }
+    ]
+}
